@@ -1,0 +1,13 @@
+# 원본·대용량 데이터는 저장소에 넣지 않는다 (각 미션 README의 받는 방법 참고)
+*.csv
+*.gz
+*.zip
+data/raw/
+
+# Python·노트북 부산물
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
