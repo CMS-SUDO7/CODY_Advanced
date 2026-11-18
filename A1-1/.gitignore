@@ -1,0 +1,9 @@
+# 원본·샘플 데이터는 저장소에 올리지 않는다 (H&M 대회 규칙상 재배포 금지)
+data/
+
+# Jupyter·Python 임시 파일
+.ipynb_checkpoints/
+__pycache__/
+
+# 가상환경
+.venv/
